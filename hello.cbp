@@ -32,7 +32,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="Cin and Cout.cpp" />
+		<Unit filename="Functions.cpp" />
+		<Unit filename="hello world.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
