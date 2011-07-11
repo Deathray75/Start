@@ -1,13 +1,19 @@
+// tells the compiler what libary it is
 #include <iostream>
+//always needed
 int main()
 {
+    //Small bits of the libary
     using namespace std;
-    // ask the user the number to enter
-    cout << "enter a number" << endl;
-    // Declares x
+    //declare X
     int x;
-    // X is now equal to the number user entered
+    // show on console Please enter a number: and move to new line
+    cout << "Please enter a number: " << endl;
+    // input is = to x
     cin >> x;
+    // show on screen X and move to new line
     cout << "you entered " << x << endl;
+    // return 0
     return 0;
+
 }
