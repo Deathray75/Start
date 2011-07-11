@@ -1,0 +1,4 @@
+Add 
+<File name="Name of file .cpp" open="1" top="1" tabpos="table posistion">
+	<Cursor position="0" topLine="0" />
+</File>
