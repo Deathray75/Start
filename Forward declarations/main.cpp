@@ -1,5 +1,7 @@
 #include <iostream>
 
+int add(int x, int y); // forward declaration of add() using a function prototype
+
 int main()
 {
     using namespace std;
