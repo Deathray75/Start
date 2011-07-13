@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1310578633 source:c:\users\home\desktop\advanced calculator\main.cpp
+	<iostream>
+	<string>
+
