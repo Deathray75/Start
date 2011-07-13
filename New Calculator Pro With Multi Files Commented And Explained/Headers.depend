@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1310581199 source:c:\users\home\desktop\headers\getnumber.cpp
+	<iostream>
+	<string>
+	"F.h"
+
+1310581936 c:\users\home\desktop\headers\f.h
+
+1310581406 source:c:\users\home\desktop\headers\getoperation.cpp
+	<iostream>
+	<string>
+	"F.h"
+
+1310581652 source:c:\users\home\desktop\headers\workout.cpp
+	<iostream>
+	<string>
+	"F.h"
+
+1310581825 source:c:\users\home\desktop\headers\main.cpp
+	<iostream>
+	<string>
+	"F.h"
+
+1310581951 source:c:\users\home\desktop\headers\print.cpp
+	<iostream>
+	<string>
+	"F.h"
+

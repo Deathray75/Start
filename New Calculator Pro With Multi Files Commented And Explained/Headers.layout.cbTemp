@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="F.h" open="1" top="0" tabpos="2">
+		<Cursor position="499" topLine="0" />
+	</File>
+	<File name="GetNumber.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="328" topLine="0" />
+	</File>
+	<File name="GetOperation.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="173" topLine="0" />
+	</File>
+	<File name="WorkOut.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="283" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1188" topLine="0" />
+	</File>
+	<File name="print.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="232" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
